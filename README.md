@@ -1,4 +1,7 @@
-# Balatro Gym
+# rl-balatro
+Reinforcement-learning-based approaches enabling RL agent to play the digital card game Balatro optimally.
+
+# Framework - Balatro Gym
 
 [![discord](https://img.shields.io/badge/discord-7289da.svg?style=flat-square&logo=discord)](https://amplication.com/discord)
 ![GitHub License](https://img.shields.io/github/license/cassiusfive/balatro-gym?style=flat-square)
